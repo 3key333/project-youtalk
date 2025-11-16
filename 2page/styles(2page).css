@@ -1689,10 +1689,750 @@ main > .container {
 
 /* Iphone 11 pro max */
 
+.main-left-title-2h-3a {
+    display: none;
+}
 
-@media(max-width:414px){
+.anxiety-maintext-firstline-3p-3a {
+    display: none;
+}
+
+.anxiety-maintext-fourthline-2p-3a,
+.anxiety-text-under-main-2p-3a,
+.anxiety-text-under-main-4p-3a,
+.anxiety-cart-inner-2p-3a,
+.anxiety-text-info-2h-3a,
+.anxiety-text-info-firstline-2p-3a,
+.anxiety-text-info-secondline-2p-3a,
+.tasks-img-2p-3a,
+.tasks-text-help-top-2p-3a,
+.tasks-text-help-center-2p-3a,
+.tasks-text-help-bot-2p-3a,
+.repertoire-img-bot-text-2p-3a,
+.less-1-cart-inner-2p-3a,
+.lesss-1-cart-bot-text-2p-3a,
+.lesss-1-cart-bot-text-secondline-2p-3a,
+.less-1-text-info-2p-3a,
+.less-2-info-img-firstblock-2img,
+.less-2-info-img-secondblock-2img,
+.less-1-text-info-img-2img,
+.less-2-info-img-firstblock-2p-3a,
+.less-2-info-img-secondblock-2p-3a,
+.repertoire-img-2img,
+.less-2-bot-text-2p-3a,
+.footer-form-3a {
+    display: none;
+}
+
+.lesss-1-cart-bot-text-firstline > .lesss-1-cart-bot-text-firstline-2p-3a {
+    display: none;
+}
+
+@media(max-width:415px){
+
+    .container {
+        padding: 8px 16px;
+    }
+ 
+    .header-info-navbar > .container  {
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        white-space: nowrap;
+    }
+
+    .main-left-title > h2 {
+        font-weight: 700;
+        font-size: 32px;
+    }
     
+    .main-left-title-1h-0a {
+        display: none;
+    }
+
+    .anxiety-maintext-firstline > .anxiety-maintext-firstline-1p-2a {
+        display: none;
+    }
+
+    .main-left-title-2h-3a {
+        display:  inline-flex;
+    }
+
+    .main-left-title-align {
+        margin-top: 8px;
+        margin-bottom: 16px;
+    }
+
+    .anxiety-img > img {
+        width: 374px;
+        height: 207px;
+    }
+
+    .anxiety-maintext-firstline-3p-3a {
+        display: flex;
+    }
+
+    .anxiety-maintext-fourthline-1p-0a {
+        display: none;
+    }
+
+    .anxiety-maintext-fourthline-2p-3a,
+    .anxiety-cart-inner-2p-3a,
+    .anxiety-text-info-2h-3a,
+    .anxiety-text-info-firstline-2p-3a,
+    .anxiety-text-info-secondline-2p-3a,
+    .tasks-img-2p-3a,
+    .tasks-text-help-top-2p-3a,
+    .tasks-text-help-center-2p-3a,
+    .tasks-text-help-bot-2p-3a,
+    .repertoire-img-bot-text-2p-3a,
+    .less-1-cart-inner-2p-3a,
+    .lesss-1-cart-bot-text-firstline > .lesss-1-cart-bot-text-firstline-2p-3a,
+    .lesss-1-cart-bot-text-secondline-2p-3a,
+    .less-1-text-info-2p-3a,
+    .less-2-info-img-firstblock-2img,
+    .less-2-info-img-secondblock-2img,
+    .less-1-text-info-img-2img,
+    .less-2-info-img-firstblock-2p-3a,
+    .less-2-info-img-secondblock-2p-3a,
+    .repertoire-img-2img,
+    .less-2-bot-text-2p-3a {
+        display: flex;
+    }
+
+    .anxiety-text-under-main-1p-0a,
+    .anxiety-text-under-main-3p-0a,
+    .anxiety-cart-inner-1p-0a,
+    .anxiety-text-info-1h-0a,
+    .anxiety-text-info-firstline-1p-0a,
+    .anxiety-text-info-secondline-1p-0a,
+    .tasks-img-1p-0a,
+    .tasks-text-help-top-1p-0a,
+    .tasks-text-help-center-1p-0a,
+    .tasks-text-help-bot-1p-0a,
+    .repertoire-img-bot-text-1p-0a,
+    .less-1-cart-inner-1p-0a,
+    .lesss-1-cart-bot-text-1p-0a,
+    .lesss-1-cart-bot-text-firstline-1p-0a,
+    .lesss-1-cart-bot-text-secondline-1p-0a,
+    .less-1-text-info-1p-0a,
+    .less-2-info-img-firstblock-1img,
+    .less-2-info-img-secondblock-1img,
+    .less-1-text-info-img-1img,
+    .less-2-info-img-firstblock-1p-0a,
+    .less-2-info-img-secondblock-1p-0a,
+    .repertoire-img-1img,
+    .less-2-bot-text-1p-0a,
+    .footer-form {
+        display: none;
+    }
+
+    .anxiety-text-under-main-2p-3a {
+        display: flex;
+
+        margin-bottom: 16px;
+    }
+
+    .anxiety-text-under-main-4p-3a {
+        display: flex;
+    }
+
+    .anxiety-cart-inner {
+        width: 374px;
+    }
+
+    .anxiety-cart-inner-2p-3a {
+        margin-bottom: 8px;
+    }
+
+    .anxiety-cart-inner > img  {
+        width: 30px;
+        height: 36px;
+
+        margin-top: -15px;
+    }
+
+    .anxiety-text-info-firstline > img {
+        margin-top: -55px;
+    }
+
+    .anxiety-text-info-secondline > img {
+        margin-top: -75px;
+    }
+    
+    .tasks-img > img {
+        width: 374px;
+        height: 207px;
+    }
+
+    .tasks-text-help-center {
+        display: inline-flex;
+        justify-content: center;
+    }
+    
+    .tasks-text-help-center > img {
+        margin-top: -30px;
+        margin-left: -0px;
+    }
+
+    .repertoire-img {
+        display: inline-block;
+    }
+
+    .repertoire-img > img {
+        margin-bottom: 16px;
+
+        width: 374px;
+        height: 380px;
+    }
+
+    .repertoire-img-text {
+        margin-left: 0px;
+    }
+
+    .less-1-cart-inner {
+        width: 374px;
+    }
+
+    .less-1-cart-inner-2p-3a br{
+        display: none;
+    }
+
+    .less-1-text-info-img {
+        display: block;
+    }
+
+    .less-1-text-info-img > p {
+        margin-left: 0px;
+        margin-top: 16px;
+    }
+
+    .less-1-text-info-img > img {
+        width: max-content;
+        height: 207px;
+    }
+
+    .lesss-1-cart-bot-text-secondline > img {
+        margin-top: -75px;
+    }
+
+    .lesss-1-cart-bot-text-firstline > img {
+        margin-top: -55px;
+    }
+
+    .less-2-cart-inner {
+        width: 374px;
+    }
+
+    .less-2-cart-inner > p > br {
+        display: none;
+    }
+
+    .less-2-info-img {
+        display: block;
+    }
+
+    .less-2-info-img-firstblock > img,
+    .less-2-info-img-secondblock > img {
+        width: max-content;
+    }
+
+    .less-2-info-img-firstblock {
+        margin-bottom: 24px;
+        display: inline-block;
+        margin-right: 0px;
+    }
+    
+    .less-2-info-img-secondblock {
+        display: inline-block;
+    }
+
+    .less-2-info-img-firstblock > p, 
+    .less-2-info-img-secondblock > p {
+        margin-left: 0px;
+    }
+    
+    .img-sep {
+        margin-left: 98px;
+    }
+
+    .less-3-cart-inner {
+        width: 374px;
+    }
+
+    .main-right-carts-firstline {
+        margin-bottom: 24px;
+    }
+
+    .main-right-carts-firstline,
+    .main-right-carts-secondline {
+        display: inline-block;
+    }
+
+    .firstcart-inner {
+        width: 374px;
+    }
+
+    .thirdcart,
+    .firstcart {
+        margin-bottom: 24px;
+    }
+
+    .secondcart-inner {
+        width: 374px;
+    }
+    
+    .thirdcart {
+        width: 374px;
+        background-image: url(images/AD/CARTS/thirdcart-ad.svg);
+    }
+
+    .fourtcart-inner {
+        width: 374px;
+    }
+
+    .fourthcart-imgs {
+        margin-left: 17px;
+    }
+
+    .main-right-carts-secondline {
+        margin-bottom: 127px;
+    }
+
+    .footer-form-3a {
+        display: block;
+
+        margin-top: 23px;
+    }
+
+    .footer-navbar-first {
+        margin-right: 158px;
+    }
+
+    footer > .container {
+        padding: 35px 19px;
+    }
+
+    .footer-form-3a > h2 {
+        color:rgba(255, 255, 255, 1);
+
+        font-weight: 700;
+        font-size: 18px;
+
+        margin-bottom: 8px;
+    }
+
+    .footer-form-3a > p {
+        color:rgba(255, 255, 255, 0.7);
+
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .footer-bot-info {
+        display: block;
+    }
+
+    .footer-bot-info > a {
+        display: inline-flex;
+
+        margin-bottom: 24px;
+    }
+
+    .footer-bot-info > p {
+        display: inline-flex;
+
+        margin-bottom: 24px;
+    }
+
+    .footer-bot-info > a:last-of-type {
+        margin-bottom: 0px;
+    }
+
+    .footer-seperator {
+        width: 374px;
+    }
+
+    .lesss-1-cart-bot-text-2p-3a {
+        display: inline-flex;
+    }
+}
+
+
+.anxiety-maintext-firstline-4p-4a,
+.anxiety-maintext-fourthline-3p-4a,
+.anxiety-text-under-main-2p-3a-1b,
+.anxiety-text-under-main-4p-3a,
+.anxiety-text-info-firstline-3p-4a,
+.anxiety-text-info-secondline-3p-4a,
+.tasks-text-help-top-3p-4a,
+.tasks-text-help-bot-3p-4a,
+.repertoire-img-3img,
+.repertoire-img-text-2p-4a,
+.repertoire-img-text-4p-4a,
+.repertoire-img-bot-text-3p-4a,
+.lesss-1-cart-bot-text-firstline > .lesss-1-cart-bot-text-firstline-3p-4a,
+.lesss-1-cart-bot-text-secondline > .lesss-1-cart-bot-text-secondline-3p-4a,
+.less-1-text-info-img-2p-4a,
+.less-1-text-info-3p-4a,
+.less-2-info-img-firstblock-3img,
+.less-2-info-img-firstblock-3p-4a,
+.less-2-info-img-secondblock-3img,
+.less-2-info-img-secondblock-3p-4a,
+.less-2-bot-text-3p-4a {
+    display: none;
+}
+
+/* Iphone SE */
+
+@media(max-width:321px) {
+    .container {
+        padding: 8px 8px 8px 16px;
+    }
+
+    .main-left-title > h2 {
+        font-size: 24px;
+    }
+
+    .main-left-title-align-dot {
+        margin-right: 4px;
+        margin-left: 4px;
+    }
+
+    .main-left-title-align > p:first-of-type {
+        margin-right: 0px;
+    }
+
+    .main-left-title-align > p:last-of-type {
+        margin-left: 0px;
+    }
+
+    .p-ad-none > p {
+        margin-right: 4px;
+        margin-left: 4px;
+    }
+
+    .main-left-title-align {
+        margin-bottom: 6px;
+    }
+
+    .anxiety-img > img {
+        width: 288px;
+        height: 160px;
+    }
+
+    .anxiety-img {
+        display: inline-block;
+
+        margin-bottom: 16px;
+    }
+
+    .anxiety-text-title > h2 {
+        margin-bottom: 8px;
+    }
+
+
+    /*  */
+    .anxiety-maintext-firstline-3p-3a,
+    .anxiety-maintext-fourthline-2p-3a,
+    .anxiety-text-under-main-2p-3a,
+    .anxiety-text-under-main > .anxiety-text-under-main-4p-3a,
+    .anxiety-text-info-firstline-2p-3a,
+    .anxiety-text-info-secondline-2p-3a,
+    .tasks-text-help-top-2p-3a,
+    .tasks-text-help-center-2p-3a,
+    .tasks-text-help-bot-2p-3a,
+    .repertoire-img-2img,
+    .repertoire-img-text-1p-0a,
+    .repertoire-img-text-3p-0a,
+    .repertoire-img-bot-text-2p-3a,
+    .lesss-1-cart-bot-text-firstline > .lesss-1-cart-bot-text-firstline-2p-3a,
+    .lesss-1-cart-bot-text-secondline > .lesss-1-cart-bot-text-secondline-2p-3a,
+    .less-1-text-info-img-1p-0a,
+    .less-1-text-info-2p-3a,
+    .less-2-info-img-firstblock-2img,
+    .less-2-info-img-firstblock-2p-3a,
+    .less-2-info-img-secondblock-2img,
+    .less-2-info-img-secondblock-2p-3a,
+    .less-2-bot-text-2p-3a {
+        display: none;
+    }
+
+    .anxiety-maintext-firstline-4p-4a,
+    .anxiety-maintext-fourthline-3p-4a,
+    .anxiety-text-under-main-2p-3a-1b,
+    .anxiety-text-under-main-4p-3a,
+    .anxiety-text-info-firstline-3p-4a,
+    .anxiety-text-info-secondline-3p-4a,
+    .tasks-text-help-top-3p-4a,
+    .tasks-text-help-bot-3p-4a,
+    .repertoire-img-3img,
+    .repertoire-img-text-2p-4a,
+    .repertoire-img-text-4p-4a,
+    .repertoire-img-bot-text-3p-4a,
+    .lesss-1-cart-bot-text-firstline > .lesss-1-cart-bot-text-firstline-3p-4a,
+    .lesss-1-cart-bot-text-secondline > .lesss-1-cart-bot-text-secondline-3p-4a,
+    .less-1-text-info-img-2p-4a,
+    .less-1-text-info-3p-4a,
+    .less-2-info-img-firstblock-3img,
+    .less-2-info-img-firstblock-3p-4a,
+    .less-2-info-img-secondblock-3img,
+    .less-2-info-img-secondblock-3p-4a,
+    .less-2-bot-text-3p-4a {
+        display: inline-flex;
+    }
+    /*  */
+
+
+    .anxiety-maintext-firstline > img:first-of-type {
+        margin-top: -57px;
+    }
+
+    .anxiety-maintext-fourthline > img {
+        margin-top: -17px;
+    }
+
+    .anxiety-maintext {
+        margin-bottom: 16px;
+    }
+
+    .anxiety-text-under-main > h2 {
+        font-size: 18px;
+
+        margin-bottom: 8px;
+    }
+
+    .anxiety-text-under-main-2p-3a-1b {
+        margin-bottom: 8px;
+    }
+
+    .anxiety-cart-inner {
+        width: 288px;
+    }
+
+    .anxiety-cart-inner > .anxiety-cart-inner-2p-3a > br {
+        display: none;
+    }
+
+    .anxiety-cart {
+        margin-bottom: 16px;
+    }
+
+    .anxiety-text-info > .anxiety-text-info-2h-3a {
+        font-size: 18px;
+
+        margin-bottom: 8px;
+    }
+
+    .anxiety-text-info-firstline {
+        margin-bottom: 8px;
+    }
+
+    .anxiety-text-info-secondline > img {
+        margin-top: -110px;
+    }
+
+    .anxiety-text-info-firstline > img {
+        margin-top: -93px;
+    }
+
+    .anxiety-text-info {
+        margin-bottom: 0px;
+    }
+
+    .anxiety-text-info-secondline {
+        margin-bottom: 6px;
+    }
+    
+
+    .tasks-img > img {
+        width: 288px;
+        height: 160px;
+    }
+
+    .tasks-img > .tasks-img-2p-3a {
+        margin-top: 0px;
+    }
+
+    .tasks-img {
+        margin-bottom: 16px;
+    }
+
+    .tasks-text-help-top {
+        margin-bottom: 24px;
+    }
+
+    .tasks-text-help-bot {
+        margin-top: 24px;
+    }
+
+    .tasks-text-help-center > img {
+        margin-top: -15px;
+    }
+
+    .tasks-text-help {
+        margin-bottom: 16px;
+    }
+
+    .repertoire-img > .repertoire-img-3img {
+        width: 288px;
+    }
+
+    .repertoire-img-text-2p-4a {
+        display: flex;
+    }
+
+    .repertoire-img {
+        margin-bottom: 16px;
+    }
+
+    .less-1-cart-inner {
+        width: 288px;
+    }
+
+    .lesss-1-cart-bot-text > .lesss-1-cart-bot-text-2p-3a {
+        font-size: 18px;
+
+        margin-bottom: 8px;
+    }
+
+    .less-1-cart {
+        margin-bottom: 16px;
+    }
+
+    .lesss-1-cart-bot-text-firstline {
+        margin-bottom: 8px;
+    }
+
+    .lesss-1-cart-bot-text-firstline > img {
+        margin-top: -90px;
+    }
+
+    .lesss-1-cart-bot-text-secondline > img {
+        margin-top: -110px;
+    }
+
+    .less-1-text-info-img > .less-1-text-info-img-2img {
+        width: 288px;
+        height: 160px;
+    }
+
+    .less-1-text-info {
+        margin-bottom: 16px;
+    }
+
+    .less-2-cart-inner {
+        width: 288px;
+    }
+
+    .less-2-cart {
+        margin-bottom: 16px;
+    }
+
+    .less-2-info-img-firstblock .less-2-info-img-firstblock-3p-4a {
+        margin-top: 16px;
+        display: block;
+    }
+
+    .less-2-info-img-firstblock {
+        width: 100%;
+    }
+     
+    .less-2-info-img {
+        display: inline-block;
+    }
+    
+    .less-2-info-img-secondblock .less-2-info-img-secondblock-3p-4a {
+        display: block;
+        margin-top: 16px;
+    }
+
+    .less-2-info-img {
+        margin-bottom: 16px;
+    }
+
+    .img-sep {
+        margin-left: 55px;
+        margin-bottom: 16px;
+    }
+
+    .less-3-cart-inner {
+        width: 288px;
+    }
+
+    .br-3less {
+        display: none;
+    }
+
+    .firstcart-inner {
+        width: 288px;
+    }
+
+    .firstcart {
+        height: 444px;
+    }
+
+    .firstcart-bot-btn > a {
+        padding: 12px 70px;
+    }
+
+    .firstcart-bot-btn {
+        margin-left: -5px;
+    }
+
+    .secondcart-inner {
+        width: 288px;
+    }
+
+    .secondcart-bot-btn > a {
+        padding: 12px 75px;
+    }
+
+    .secondcart-seperator {
+        margin-left: -0px;
+    }
+
+    .thirdcart {
+        width: 288px;
+        height: 292px;
+    }
+
+    .fourtcart-inner {
+        width: 288px;
+        height: 267px;
+    }
+
+
+    .fourthcart-imgs img:first-of-type {
+        margin-top: -50px;
+        margin-left: 137px;
+    }
+
+    .fourthcart-imgs img:last-of-type {
+        margin-top: -37px;
+        margin-left: 158px;
+    }
+
+    .footer-navbar-first {
+        margin-right: 71px;
+    }
+
+    .footer-seperator{
+        width: 288px;
+    }
+
+    .br-form {
+        display: flex;
+    }
 }
     
+
+.anxiety-text-under-main-4p-3a-2b,
+.tasks-text-help-center-3p-4a {
+    display: none;
+}
+
+.br-form {
+    display: none;
+}
 
 
